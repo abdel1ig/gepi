@@ -8,9 +8,9 @@ secure/*
 /lib/simplesaml/config/config.php
 
 # Ignore paths that contain user-generated content.
-/backup
+
 !/backup/donnees_test
-temp
+
 /documents/*
 !/documents/archives/entete.php
 !/documents/archives/index.php
