@@ -1,4 +1,5 @@
 <?php
+#// # ezfk
 # La ligne suivante est à modifier si vous voulez utiliser le multisite
 # Regardez le fichier modeles/connect-modele.inc.php pour information
 $multisite = 'n';
