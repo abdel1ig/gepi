@@ -17,7 +17,7 @@ $dbUser="fy6xwb3t9xgc6byh";
 # ligne suivante : le mot de passe de l'utilisateur mysql ci-dessus
 $dbPass="qj7g8vfi3oc80tps";
 # Chemin relatif vers GEPI
-$gepiPath="/gepi";
+$gepiPath="/";
 #
 $db_nopersist=true;
 #
