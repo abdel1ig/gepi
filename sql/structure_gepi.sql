@@ -1,4 +1,6 @@
 
+
+
 -- $Id: structure_gepi.sql 7944 2011-08-24 11:31:56Z crob $
 DROP TABLE IF EXISTS `absences`;
 CREATE TABLE `absences` (`login` varchar(50) NOT NULL default '', `periode` int(11) NOT NULL default '0', `nb_absences` char(2) NOT NULL default '', `non_justifie` char(2) NOT NULL default '', `nb_retards` char(2) NOT NULL default '', `appreciation` text NOT NULL, PRIMARY KEY  (`login`,`periode`)) ENGINE=MyISAM CHARACTER SET utf8 COLLATE utf8_general_ci;
