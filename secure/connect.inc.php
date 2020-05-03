@@ -34,7 +34,7 @@ $dbPass="qj7g8vfi3oc80tps";
 
 # Chemin relatif vers GEPI
 
-$gepiPath="/";
+$gepiPath="https://gepi.herokuapp.com/";
 $db_nopersist=true;
 
 
