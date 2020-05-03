@@ -30,7 +30,7 @@ $dbUser="fy6xwb3t9xgc6byh";
 
 # ligne suivante : le mot de passe de l'utilisateur mysql ci-dessus
 
-$dbPass="qj7g8vfi3oc80tps";
+$dbPass="jgqy3d1hay6qn68z";
 
 # Chemin relatif vers GEPI
 
