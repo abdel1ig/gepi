@@ -1,12 +1,15 @@
 <?php
 
-# La ligne suivante est à modifier si vous voulez utiliser le multisite
+# La ligne suivante est à modifier si 
+# vous voulez utiliser le multisite
 # Regardez le fichier modeles/connect-modele.inc.php pour information
 
 $multisite = 'n';
 
-# Les cinq lignes suivantes sont à modifier selon votre configuration
-# Pensez à renommer ce fichier connect.cfg.php en connect.inc.php
+# Les cinq lignes suivantes sont 
+# à modifier selon votre configuration
+# Pensez à renommer ce fichier 
+# connect.cfg.php en connect.inc.php
 #
 # ligne suivante : le nom du serveur qui herberge votre base mysql.
 # Si c'est le même que celui qui heberge les scripts, mettre "localhost"
@@ -27,17 +30,13 @@ $dbUser="fy6xwb3t9xgc6byh";
 
 # ligne suivante : le mot de passe de l'utilisateur mysql ci-dessus
 
-$dbPass="qj7g8vfi3oc80tps";
+$dbPass="jgqy3d1hay6qn68z";
 
 # Chemin relatif vers GEPI
 
 $gepiPath="https://gepi.herokuapp.com";
-
-#
-
 $db_nopersist=true;
 
-#
 
 $set_mode_mysql="MYSQL40";
 
